@@ -42,7 +42,7 @@ export function App() {
     return (
         <div>
             <h1>Idle calc</h1>
-            <label for="desiredCredit">Enter desire base credits</label>
+            <label for="desiredCredit">Enter desired base credits</label>
             <input
                 name="desiredCredit"
                 id="desiredCredit"
